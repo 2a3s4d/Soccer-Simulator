@@ -1,0 +1,44 @@
+Welcome to Thomas' Soccer Sim!
+
+There are 5 teams in the game:
+Team 1
+Team 2
+Team 3
+Team 4
+User Team
+
+You control the User Team.
+When you start the game, all of the games between the 
+other teams will be simulated and the results are printed.
+After this, your team will play the other teams (3 games
+in total) to complete the season.
+
+After the other teams play each other, a menu will
+appear with 5 options:
+
+0: Continue -> this will start your games
+
+1: View League Standings -> this will show you how 
+                            many points each team has
+
+2: View Top Scorers -> this will show you the players
+                       who have scored
+
+3: View Top Assisters -> this will show you the players 
+                         who have gotten an assist
+
+4: View Passing Stats -> this will show you how many
+                         passes each team has made
+
+When you hit Continue, the game will prompt you to choose
+your team for your game. To choose a player, enter the 
+number to the left of the players name and hit enter.
+The format will be:
+<number> <name> <role> <rating>
+
+At the end of the season (after you have played all four games),
+if you have the most number of points, you will have won the 
+league.
+
+Press enter to exit the instructions
+
